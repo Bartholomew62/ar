@@ -1,5 +1,7 @@
 # 10 anti patterns
 
+![](t/ty.jpg)
+
 1.  **上帝物件 (God Object)：**
 * 问题：单一类别承担过多责任，违反单一职责原则 (SRP)。
   * 解决方案：拆分职责，使用设计模式 (Facade, Strategy, Command)。
